@@ -22,14 +22,7 @@ main{
     padding: 40px 80px;
     border: 1px double #4AA1E8;
 }
-h2{
-    padding: 10px;
-    margin-bottom: 30px;
-    border: 1px dotted #C23FD9;
-    border-left: 10px solid #AB02D1;
-    color: #D05FDB;
-    border-radius: 5px 0 0 5px;
-}
+
 .round{
     border-radius: 50%;
 }
