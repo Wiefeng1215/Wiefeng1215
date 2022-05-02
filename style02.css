@@ -15,6 +15,9 @@ h1{
     text-align: center;
     line-height: 1;    
 }   
+h2{
+    color: #703a37;
+}
 main{
     width: 80%;
     background-color: rgb(247, 234, 206);
@@ -23,12 +26,9 @@ main{
     border: 1px double #4AA1E8;
     text-align: center;
 }
-h2{
-    color: #703a37;
-}
 .round{
     border-radius: 50%;
 }
-h1,header,nav,footer{
+h1,header,h2,h3,{
     text-align: center;
 }
