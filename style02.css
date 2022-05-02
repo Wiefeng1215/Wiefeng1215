@@ -28,6 +28,6 @@ main{
 .round{
     border-radius: 50%;
 }
-h1,header{
+h1,header,nav,footer{
     text-align: center;
 }
